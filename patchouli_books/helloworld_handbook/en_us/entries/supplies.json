@@ -1,0 +1,13 @@
+{
+  "name": "Starter Supplies",
+  "category": "patchouli:getting_started",
+  "icon": "minecraft:bread",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "A little help for the road",
+      "text": "New explorers receive Bread and Budding Amethyst. Keep your supplies safe. $(br2)Budding Amethyst grows crystals, but cannot be retrieved by ordinary mining, even with Silk Touch."
+    }
+  ]
+}

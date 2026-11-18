@@ -1,0 +1,13 @@
+{
+  "name": "Credits",
+  "category": "patchouli:reference",
+  "icon": "minecraft:enchanted_book",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Rest the weary heart",
+      "text": "HelloWorld - Beyond the Descendant. $(br2)Made for a world of adventures with friends. $(br2)Your journey is not over."
+    }
+  ]
+}

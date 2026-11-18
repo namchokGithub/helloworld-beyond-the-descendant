@@ -1,0 +1,13 @@
+{
+  "name": "Your First Night",
+  "category": "patchouli:getting_started",
+  "icon": "minecraft:torch",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Prepare before sunset",
+      "text": "Gather wood, craft tools, and place a bed. Bring torches and food before heading underground. $(br2)Do not underestimate the first night."
+    }
+  ]
+}

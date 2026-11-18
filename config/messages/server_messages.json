@@ -1,0 +1,24 @@
+[
+  {
+    "identifier": "default_message",
+    "schedule": "on_first_join",
+    "type": "overlay",
+    "repeats": false,
+    "pack_intro": false,
+    "text": "Hi %player%, Here's our peaceful world!"
+  },
+  {
+    "identifier": "death_message",
+    "schedule": "on_death",
+    "type": "overlay",
+    "repeats": true,
+    "text": "§6Rest the weary heart... §7Your journey is not over."
+  },
+  {
+    "identifier": "welcome_back",
+    "schedule": "on_join_level",
+    "type": "overlay",
+    "repeats": true,
+    "text": "§6Look who's back! §fHow many deaths this time?"
+  }
+]

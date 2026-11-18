@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"dummmmmmy:target_dummy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpleflightring:iron_flight_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpleflightring:stone_flight_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpleflightring:wood_flight_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"magistuarmory:netherite_rondache"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"paladins:stone_claymore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:budding_amethyst"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_golem_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bookshelf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rogues:iron_double_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bhc:relic_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bhc:red_heart"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpleflightring:gold_flight_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpleflightring:netherite_flight_ring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"friendsandfoes:totem_of_freezing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"friendsandfoes:totem_of_illusion"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

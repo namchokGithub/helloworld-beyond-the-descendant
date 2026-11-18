@@ -1,0 +1,22 @@
+#Flight timer HUD settings / 飞行时间倒计时 HUD 设置
+[hud]
+	#Show the remaining flight time countdown on the HUD.
+	#在游戏界面显示剩余飞行时间倒计时。
+	#Default: true
+	showFlightTimer = true
+	#Hide the countdown while the chat input is open (default position overlaps the chat box).
+	#打开聊天框输入文字时隐藏倒计时（默认位置与聊天框重叠，建议保持开启）。
+	#Default: true
+	hideWhileChatOpen = true
+	#Horizontal position of the countdown and the energy bar: whole percent of the screen width, from the left edge (slider, 0-100).
+	#倒计时与能量条的水平位置：屏幕宽度的整数百分比，从左边缘算起（滑块，0~100）。
+	#Default: 1 (= 1% of the width, about the old 4 pixels)
+	# Default: 1
+	# Range: 0 ~ 100
+	hudXPercent = 1
+	#Vertical position of the countdown and the energy bar: whole percent of the screen height, from the bottom edge (slider, 0-100).
+	#倒计时与能量条的垂直位置：屏幕高度的整数百分比，从底部边缘算起（滑块，0~100）。
+	#Default: 2 (= 2% of the height, about the old 4 pixels)
+	# Default: 2
+	# Range: 0 ~ 100
+	hudYPercent = 2

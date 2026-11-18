@@ -1,0 +1,13 @@
+﻿{
+    "pack":  {
+                 "max_format":  [
+                                    101,
+                                    1
+                                ],
+                 "min_format":  [
+                                    101,
+                                    1
+                                ],
+                 "description":  "Croptopia seeds and saplings for Farming for Blockheads Market"
+             }
+}

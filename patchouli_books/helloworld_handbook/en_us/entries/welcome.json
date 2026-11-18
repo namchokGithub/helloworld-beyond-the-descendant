@@ -1,0 +1,13 @@
+{
+  "name": "Welcome",
+  "category": "patchouli:getting_started",
+  "icon": "minecraft:book",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Welcome to HelloWorld!",
+      "text": "This is your adventure across a world of fantasy, strange creatures, and discoveries. $(br2)Play at your pace, explore together, and enjoy the journey."
+    }
+  ]
+}

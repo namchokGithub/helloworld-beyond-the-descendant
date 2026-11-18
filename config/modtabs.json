@@ -1,0 +1,20 @@
+{
+  "iconOffsetTop": 0,
+  "iconOffsetRight": 0,
+  "iconOffsetBottom": 0,
+  "iconOffsetLeft": 0,
+  "inventoryTabSticky": true,
+  "allowEditing": true,
+  "inventoryTabEnabled": true,
+  "inventoryTabCustomIcon": "",
+  "inventoryTabIconScale": 100,
+  "inventoryTabIconNudgeUp": 0,
+  "inventoryTabIconNudgeDown": 0,
+  "inventoryTabIconNudgeLeft": 0,
+  "inventoryTabIconNudgeRight": 0,
+  "inventoryTabOrder": 0,
+  "inventoryTabDisplayVisibility": "YES",
+  "nearbyContainersTabEnabled": false,
+  "nearbyContainersTabRange": 5,
+  "nearbyContainersTabRequireLineOfSight": false
+}

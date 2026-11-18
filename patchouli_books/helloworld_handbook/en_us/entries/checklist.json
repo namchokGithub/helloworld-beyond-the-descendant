@@ -1,0 +1,13 @@
+{
+  "name": "Adventure Checklist",
+  "category": "patchouli:reference",
+  "icon": "minecraft:map",
+  "sortnum": 18,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Before you leave",
+      "text": "Bring food, tools, a weapon, armor, blocks, and light sources. Note your coordinates and keep a way home."
+    }
+  ]
+}

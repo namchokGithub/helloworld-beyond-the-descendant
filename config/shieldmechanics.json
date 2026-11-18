@@ -1,0 +1,494 @@
+{
+  "hideinactiveshield": {
+    // Should the shield in offhand be hidden while not blocking, 
+    // Default:false
+    "hideinactiveshield": false
+  },
+
+  "shields": {
+    // List of shield items and their damage values. Start the game once to fill these entries with all modded shields automatically.
+    // Format: Shield name id;shield damage reduction on block; shield passive damage reduction when just held.
+    // E.g. 
+    // Default: ["minecraft:shield;65;15"] this give the minecraft shield 65% damage reduction on block, and 15% passive damage reduction when not blocking but held.
+    // To put multiple values seperate them by commas like this:  ["minecraft:shield;65;15", "minecraft:shield;65;15"] 
+    "shields": [
+      "magistuarmory:bronze_estoc;59;15",
+
+      "magistuarmory:tin_lochaberaxe;62;11",
+
+      "magistuarmory:netherite_zweihander;85;12",
+
+      "magistuarmory:steel_guisarme;72;10",
+
+      "magistuarmory:stone_zweihander;62;11",
+
+      "magistuarmory:gold_roundshield;67;15",
+
+      "magistuarmory:wood_roundshield;69;10",
+
+      "magistuarmory:copper_bastardsword;59;15",
+
+      "magistuarmory:steel_claymore;73;12",
+
+      "magistuarmory:stone_lochaberaxe;60;14",
+
+      "magistuarmory:netherite_ellipticalshield;77;16",
+
+      "magistuarmory:diamond_zweihander;82;10",
+
+      "magistuarmory:gold_kiteshield;70;11",
+
+      "magistuarmory:tin_ahlspiess;60;11",
+
+      "magistuarmory:silver_pavese;70;17",
+
+      "magistuarmory:bronze_ellipticalshield;65;16",
+
+      "magistuarmory:wood_tartsche;65;15",
+
+      "magistuarmory:steel_kiteshield;76;10",
+
+      "magistuarmory:diamond_rondache;85;12",
+
+      "magistuarmory:gold_rondache;72;11",
+
+      "magistuarmory:copper_concavehalberd;66;11",
+
+      "magistuarmory:copper_claymore;64;12",
+
+      "magistuarmory:stone_concavehalberd;61;11",
+
+      "arsenal:unique_shield_2;80;22",
+
+      "magistuarmory:iron_estoc;65;11",
+
+      "magistuarmory:netherite_flamebladedsword;76;19",
+
+      "magistuarmory:gold_heatershield;68;11",
+
+      "arsenal:unique_shield_1;79;20",
+
+      "magistuarmory:netherite_tartsche;82;11",
+
+      "magistuarmory:stone_ellipticalshield;62;18",
+
+      "magistuarmory:stone_guisarme;58;10",
+
+      "magistuarmory:silver_claymore;64;16",
+
+      "magistuarmory:netherite_roundshield;74;20",
+
+      "magistuarmory:gold_buckler;69;11",
+
+      "magistuarmory:iron_ahlspiess;63;16",
+
+      "magistuarmory:gold_flamebladedsword;52;10",
+
+      "magistuarmory:tin_buckler;67;16",
+
+      "magistuarmory:wood_rondache;70;13",
+
+      "magistuarmory:netherite_heatershield;76;18",
+
+      "magistuarmory:iron_heatershield;73;10",
+
+      "magistuarmory:steel_heatershield;68;15",
+
+      "magistuarmory:stone_heatershield;67;15",
+
+      "magistuarmory:bronze_bastardsword;68;10",
+
+      "magistuarmory:netherite_ranseur;85;11",
+
+      "magistuarmory:tin_estoc;58;16",
+
+      "magistuarmory:copper_zweihander;64;12",
+
+      "magistuarmory:silver_ahlspiess;67;10",
+
+      "magistuarmory:steel_target;65;18",
+
+      "magistuarmory:netherite_claymore;78;19",
+
+      "paladins:iron_kite_shield;66;14",
+
+      "magistuarmory:netherite_guisarme;82;10",
+
+      "magistuarmory:stone_roundshield;69;12",
+
+      "magistuarmory:netherite_buckler;82;11",
+
+      "magistuarmory:copper_target;62;18",
+
+      "magistuarmory:copper_buckler;72;10",
+
+      "magistuarmory:stone_estoc;60;11",
+
+      "magistuarmory:netherite_pavese;79;16",
+
+      "magistuarmory:tin_guisarme;60;10",
+
+      "magistuarmory:tin_roundshield;64;17",
+
+      "magistuarmory:diamond_ellipticalshield;83;10",
+
+      "magistuarmory:wood_buckler;70;11",
+
+      "magistuarmory:gold_lochaberaxe;54;10",
+
+      "magistuarmory:netherite_target;77;18",
+
+      "magistuarmory:bronze_concavehalberd;62;14",
+
+      "magistuarmory:iron_tartsche;71;11",
+
+      "magistuarmory:iron_lochaberaxe;67;14",
+
+      "magistuarmory:netherite_concavehalberd;81;17",
+
+      "magistuarmory:wood_flamebladedsword;55;10",
+
+      "magistuarmory:wood_bastardsword;55;10",
+
+      "magistuarmory:wood_estoc;57;10",
+
+      "magistuarmory:iron_flamebladedsword;64;15",
+
+      "magistuarmory:stone_rondache;70;14",
+
+      "magistuarmory:gold_zweihander;52;10",
+
+      "magistuarmory:stone_claymore;63;11",
+
+      "magistuarmory:rusted_bastardsword;63;13",
+
+      "magistuarmory:silver_guisarme;64;11",
+
+      "magistuarmory:copper_rondache;69;14",
+
+      "magistuarmory:diamond_heatershield;79;12",
+
+      "magistuarmory:bronze_buckler;72;11",
+
+      "magistuarmory:tin_zweihander;61;11",
+
+      "magistuarmory:wood_pavese;71;14",
+
+      "magistuarmory:steel_zweihander;73;10",
+
+      "magistuarmory:gold_pavese;66;15",
+
+      "magistuarmory:steel_roundshield;71;14",
+
+      "magistuarmory:steel_estoc;73;10",
+
+      "magistuarmory:gold_concavehalberd;50;10",
+
+      "magistuarmory:stone_ahlspiess;55;15",
+
+      "magistuarmory:diamond_estoc;74;18",
+
+      "magistuarmory:steel_lochaberaxe;63;20",
+
+      "magistuarmory:noble_sword;66;11",
+
+      "magistuarmory:silver_target;73;10",
+
+      "magistuarmory:iron_ranseur;63;16",
+
+      "magistuarmory:silver_bastardsword;63;16",
+
+      "magistuarmory:gold_ranseur;51;10",
+
+      "magistuarmory:gold_ellipticalshield;66;16",
+
+      "magistuarmory:wood_ellipticalshield;70;11",
+
+      "magistuarmory:wood_kiteshield;66;14",
+
+      "magistuarmory:bronze_flamebladedsword;66;11",
+
+      "magistuarmory:gold_ahlspiess;50;10",
+
+      "magistuarmory:silver_kiteshield;70;12",
+
+      "magistuarmory:wood_claymore;57;12",
+
+      "magistuarmory:copper_estoc;62;12",
+
+      "magistuarmory:diamond_guisarme;68;24",
+
+      "magistuarmory:tin_ellipticalshield;70;14",
+
+      "magistuarmory:netherite_ahlspiess;80;12",
+
+      "magistuarmory:bronze_heatershield;70;12",
+
+      "magistuarmory:diamond_roundshield;75;15",
+
+      "magistuarmory:silver_ranseur;64;12",
+
+      "magistuarmory:copper_roundshield;70;11",
+
+      "magistuarmory:gold_bastardsword;50;10",
+
+      "magistuarmory:diamond_ranseur;78;12",
+
+      "magistuarmory:copper_tartsche;70;10",
+
+      "magistuarmory:iron_concavehalberd;60;16",
+
+      "magistuarmory:silver_estoc;63;11",
+
+      "magistuarmory:steel_ellipticalshield;69;17",
+
+      "magistuarmory:iron_roundshield;69;13",
+
+      "magistuarmory:tin_target;67;12",
+
+      "magistuarmory:diamond_buckler;82;10",
+
+      "magistuarmory:silver_roundshield;65;19",
+
+      "magistuarmory:iron_buckler;63;21",
+
+      "magistuarmory:silver_buckler;70;12",
+
+      "alexsmobs:shield_of_the_deep;68;11",
+
+      "minecraft:shield;65;25",
+
+      "magistuarmory:diamond_ahlspiess;80;15",
+
+      "magistuarmory:silver_concavehalberd;62;16",
+
+      "magistuarmory:diamond_claymore;72;25",
+
+      "magistuarmory:steel_flamebladedsword;67;18",
+
+      "magistuarmory:copper_heatershield;69;11",
+
+      "magistuarmory:tin_kiteshield;71;11",
+
+      "magistuarmory:diamond_target;82;11",
+
+      "magistuarmory:wood_guisarme;53;11",
+
+      "magistuarmory:iron_pavese;70;13",
+
+      "magistuarmory:wood_target;67;12",
+
+      "magistuarmory:silver_tartsche;70;11",
+
+      "magistuarmory:steel_rondache;71;16",
+
+      "magistuarmory:steel_ahlspiess;70;14",
+
+      "magistuarmory:bronze_ahlspiess;60;14",
+
+      "magistuarmory:iron_bastardsword;68;10",
+
+      "magistuarmory:iron_target;70;15",
+
+      "magistuarmory:tin_bastardsword;63;12",
+
+      "magistuarmory:bronze_zweihander;59;15",
+
+      "magistuarmory:iron_ellipticalshield;63;20",
+
+      "paladins:netherite_kite_shield;70;22",
+
+      "magistuarmory:bronze_tartsche;69;13",
+
+      "magistuarmory:gold_tartsche;66;12",
+
+      "magistuarmory:tin_flamebladedsword;59;15",
+
+      "magistuarmory:netherite_estoc;83;13",
+
+      "magistuarmory:steel_concavehalberd;74;10",
+
+      "magistuarmory:netherite_lochaberaxe;74;22",
+
+      "magistuarmory:diamond_flamebladedsword;67;25",
+
+      "magistuarmory:iron_rondache;70;14",
+
+      "magistuarmory:gold_target;66;15",
+
+      "magistuarmory:iron_zweihander;65;12",
+
+      "magistuarmory:tin_tartsche;73;10",
+
+      "magistuarmory:wood_concavehalberd;58;10",
+
+      "magistuarmory:copper_kiteshield;67;16",
+
+      "magistuarmory:netherite_bastardsword;85;10",
+
+      "magistuarmory:stone_tartsche;68;15",
+
+      "magistuarmory:stone_bastardsword;55;14",
+
+      "magistuarmory:bronze_ranseur;65;11",
+
+      "magistuarmory:steel_bastardsword;69;11",
+
+      "artifacts:umbrella;50;25",
+
+      "magistuarmory:tin_concavehalberd;64;11",
+
+      "magistuarmory:iron_kiteshield;72;12",
+
+      "magistuarmory:bronze_kiteshield;67;18",
+
+      "magistuarmory:copper_pavese;64;20",
+
+      "magistuarmory:stone_buckler;73;10",
+
+      "magistuarmory:stone_flamebladedsword;63;10",
+
+      "magistuarmory:gold_guisarme;50;10",
+
+      "magistuarmory:copper_flamebladedsword;62;11",
+
+      "magistuarmory:steel_ranseur;67;13",
+
+      "magistuarmory:wood_ranseur;56;10",
+
+      "magistuarmory:bronze_guisarme;65;10",
+
+      "magistuarmory:netherite_kiteshield;84;10",
+
+      "magistuarmory:tin_claymore;62;15",
+
+      "paladins:diamond_kite_shield;64;19",
+
+      "magistuarmory:bronze_pavese;74;11",
+
+      "magistuarmory:iron_guisarme;67;11",
+
+      "magistuarmory:messer_sword;64;12",
+
+      "magistuarmory:tin_ranseur;59;10",
+
+      "magistuarmory:tin_heatershield;72;12",
+
+      "magistuarmory:silver_heatershield;73;11",
+
+      "magistuarmory:steel_buckler;71;12",
+
+      "magistuarmory:wood_heatershield;70;12",
+
+      "magistuarmory:wood_lochaberaxe;57;11",
+
+      "magistuarmory:stone_kiteshield;69;15",
+
+      "magistuarmory:silver_ellipticalshield;69;12",
+
+      "magistuarmory:stone_target;71;10",
+
+      "magistuarmory:bronze_target;68;14",
+
+      "magistuarmory:silver_lochaberaxe;69;10",
+
+      "magistuarmory:stone_ranseur;61;10",
+
+      "magistuarmory:corruptedroundshield;64;10",
+
+      "magistuarmory:diamond_kiteshield;84;10",
+
+      "magistuarmory:diamond_bastardsword;80;13",
+
+      "magistuarmory:diamond_lochaberaxe;77;19",
+
+      "arsenal:unique_shield_sw;77;24",
+
+      "magistuarmory:gold_claymore;52;11",
+
+      "magistuarmory:bronze_claymore;62;15",
+
+      "magistuarmory:silver_flamebladedsword;68;12",
+
+      "magistuarmory:copper_ranseur;59;11",
+
+      "magistuarmory:copper_lochaberaxe;58;15",
+
+      "magistuarmory:bronze_rondache;71;14",
+
+      "magistuarmory:diamond_pavese;73;17",
+
+      "magistuarmory:bronze_lochaberaxe;64;12",
+
+      "magistuarmory:copper_guisarme;58;14",
+
+      "magistuarmory:steel_tartsche;70;13",
+
+      "alexsmobs:skelewag_sword;71;11",
+
+      "magistuarmory:steel_pavese;74;12",
+
+      "magistuarmory:bronze_roundshield;70;12",
+
+      "magistuarmory:tin_rondache;70;15",
+
+      "magistuarmory:gold_estoc;52;10",
+
+      "paladins:golden_kite_shield;61;13",
+
+      "magistuarmory:wood_zweihander;54;11",
+
+      "magistuarmory:stone_pavese;74;10",
+
+      "magistuarmory:silver_rondache;64;23",
+
+      "magistuarmory:wood_ahlspiess;53;10",
+
+      "magistuarmory:copper_ellipticalshield;71;14",
+
+      "magistuarmory:tin_pavese;70;12",
+
+      "magistuarmory:diamond_concavehalberd;79;12",
+
+      "magistuarmory:copper_ahlspiess;58;13",
+
+      "magistuarmory:netherite_rondache;81;14",
+
+      "magistuarmory:silver_zweihander;63;14",
+
+      "magistuarmory:iron_claymore;69;13",
+
+      "magistuarmory:diamond_tartsche;67;24"
+    ]
+  },
+
+  "playerOnly": {
+    // Should the mechanic changes only affect players, 
+    // Default:false
+    "playerOnly": false
+  },
+
+  "blockCooldown": {
+    // Shield block cooldown(players only), values are in ticks. 20 ticks = 1 sec, 
+    // Default = 5 ticks(0.25s)
+    "blockCooldown": 5
+  },
+
+  "maxblockdamagereduction": {
+    // Maximum percent of damage allowed to be blocked. 
+    // Default:85
+    "maxblockdamagereduction": 85
+  },
+
+  "maxpassivedamagereduction": {
+    // Maximum percent of passive damage reduction while holding a shield(not blocking). 
+    // Default:25
+    "maxpassivedamagereduction": 25
+  },
+
+  "debugLogging": {
+    // Enables debug logging of block damage reduction. 
+    // Default:false
+    "debugLogging": false
+  }
+}

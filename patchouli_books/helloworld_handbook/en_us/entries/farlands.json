@@ -1,0 +1,13 @@
+{
+  "name": "Distance Matters",
+  "category": "patchouli:exploration",
+  "icon": "minecraft:compass",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "The farther, the fiercer",
+      "text": "Enemies become stronger as you travel farther from world spawn. Start near home and challenge distant lands once you have suitable gear."
+    }
+  ]
+}

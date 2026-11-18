@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Give one Budding Amethyst to each player once",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": [
+      101,
+      1
+    ]
+  }
+}

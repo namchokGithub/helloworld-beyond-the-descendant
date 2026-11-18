@@ -1,0 +1,6 @@
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_0	0	0	8	8
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_1	8	0	8	8
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_2	16	0	8	8
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_3	24	0	8	8
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_4	32	0	8	8
+animalgarden_capybara:mob_spawn_egg	inventory_particles:mob_spawn_egg/fallback/standard_5	40	0	8	8

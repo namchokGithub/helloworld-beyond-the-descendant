@@ -1,0 +1,14 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"sophisticatedbackpacks:backpack","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"minecraft:leather","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:coal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"simpleflightring:raid_charge","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"minecraft:stone_spear","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"constructionwand:stone_wand","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:enchanted_book","components":"{\"minecraft:stored_enchantments\":{\"minecraft:sharpness\":3,\"xp_boost_enchantment:xp_boost\":3}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:nautilus_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexsmobs:spawn_egg_hummingbird"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

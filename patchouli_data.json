@@ -1,0 +1,38 @@
+{
+  "bookGuiScale": 3,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:helloworld_handbook": {
+      "viewedEntries": [
+        "patchouli:welcome",
+        "patchouli:first_night",
+        "patchouli:supplies",
+        "patchouli:waystones",
+        "patchouli:farlands",
+        "patchouli:biomes",
+        "patchouli:defense",
+        "patchouli:champions",
+        "patchouli:bosses",
+        "patchouli:amethyst",
+        "patchouli:repair",
+        "patchouli:backpacks",
+        "patchouli:night"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "animal_pen:guide_book": {
+      "viewedEntries": [
+        "animal_pen:crafting/crafting_animal_cage",
+        "animal_pen:crafting/crafting_bird_catcher",
+        "animal_pen:crafting/crafting_water_animal_container",
+        "animal_pen:flying_animals/animal_bee",
+        "animal_pen:water_animals/animal_frog",
+        "animal_pen:animals/animal_parrot",
+        "animal_pen:animals/animal_zombie_horse"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

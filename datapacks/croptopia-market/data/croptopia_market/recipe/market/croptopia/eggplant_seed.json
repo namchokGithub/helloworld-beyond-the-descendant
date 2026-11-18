@@ -1,0 +1,18 @@
+﻿{
+    "type":  "farmingforblockheads:market",
+    "category":  "farmingforblockheads:seeds",
+    "defaults":  "selling.seeds.croptopia.eggplant_seed",
+    "result":  {
+                   "item":  "croptopia:eggplant_seed"
+               },
+    "neoforge:conditions":  [
+                                {
+                                    "type":  "neoforge:mod_loaded",
+                                    "modid":  "croptopia"
+                                },
+                                {
+                                    "type":  "farmingforblockheads:is_group_enabled",
+                                    "group":  "selling.seeds.croptopia.eggplant_seed"
+                                }
+                            ]
+}

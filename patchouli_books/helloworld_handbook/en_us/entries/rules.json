@@ -1,0 +1,13 @@
+{
+  "name": "Server Etiquette",
+  "category": "patchouli:multiplayer",
+  "icon": "minecraft:writable_book",
+  "sortnum": 17,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Keep the world welcoming",
+      "text": "Do not destroy others' builds or take their belongings without permission. Coordinate changes to shared farms and bases."
+    }
+  ]
+}

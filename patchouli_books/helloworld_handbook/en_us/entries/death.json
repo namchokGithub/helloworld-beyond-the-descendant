@@ -1,0 +1,13 @@
+{
+  "name": "Death & Corpses",
+  "category": "patchouli:world",
+  "icon": "minecraft:skeleton_skull",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "A second chance",
+      "text": "Your belongings may remain in a Corpse after death. Return carefully to retrieve them before the journey continues."
+    }
+  ]
+}

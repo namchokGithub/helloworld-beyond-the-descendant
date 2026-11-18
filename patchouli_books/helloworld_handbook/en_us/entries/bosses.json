@@ -1,0 +1,13 @@
+{
+  "name": "Boss Encounters",
+  "category": "patchouli:combat",
+  "icon": "minecraft:nether_star",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Prepare before the battle",
+      "text": "Bring spare supplies and repair your equipment. Learn a boss's attack patterns and fight as a team when possible."
+    }
+  ]
+}

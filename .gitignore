@@ -1,0 +1,156 @@
+
+# ============================================
+# HelloWorld: Beyond the Descendant
+# Minecraft Modpack Development
+# ============================================
+
+# --------------------------------------------
+# Minecraft Worlds & Backups
+# --------------------------------------------
+/saves/
+/world/
+/world_nether/
+/world_the_end/
+/backups/
+/simplebackups/
+
+# --------------------------------------------
+# Logs & Crash Reports
+# --------------------------------------------
+/logs/
+/crash-reports/
+/debug/
+/*.log
+*.log.gz
+hs_err_pid*
+replay_pid*
+
+# --------------------------------------------
+# Minecraft Runtime & Cache
+# --------------------------------------------
+/assets/
+/libraries/
+/versions/
+/runtime/
+/downloads/
+/cache/
+/caches/
+/natives/
+/webcache/
+/webcache2/
+/.minecraft/
+
+# --------------------------------------------
+# Mods (Binary Files)
+# --------------------------------------------
+/mods/
+*.jar
+
+# --------------------------------------------
+# Shaderpacks & Resource Pack Archives
+# --------------------------------------------
+/shaderpacks/*.zip
+/resourcepacks/*.zip
+
+# --------------------------------------------
+# Player & Local Settings
+# --------------------------------------------
+/options.txt
+/optionsof.txt
+/optionsshaders.txt
+/servers.dat
+/servers.dat_old
+/usercache.json
+/usernamecache.json
+/knownkeys.txt
+/recent_servers.txt
+
+# --------------------------------------------
+# Client-side Mod Data
+# --------------------------------------------
+/journeymap/
+/xaero/
+/XaeroWaypoints/
+/XaeroWorldMap/
+/local/
+/schematics/
+/screenshots/
+/replay_recordings/
+
+# --------------------------------------------
+# Temporary & Generated Files
+# --------------------------------------------
+/temp/
+/tmp/
+/dist/
+/build/
+/exports/
+/.gradle/
+*.tmp
+*.bak
+*.old
+*.lock
+*.mrpack
+
+# --------------------------------------------
+# OS Files
+# --------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --------------------------------------------
+# IDE & Editor
+# --------------------------------------------
+/.idea/
+/.vscode/*
+.vscode
+!/.vscode/extensions.json
+
+# --------------------------------------------
+# Environment & Secrets
+# --------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# --------------------------------------------
+# Node.js (Optional Development Tools)
+# --------------------------------------------
+node_modules/
+.pnpm-store/
+coverage/
+*.tsbuildinfo
+
+# --------------------------------------------
+# Additional Minecraft / Mod Runtime Data
+# --------------------------------------------
+.curseclient
+.cache
+*note-local.md
+
+# Cache
+/.cache/
+/.mixin.out/
+/dynamic-resource-pack-cache/
+
+# Generated mod data
+/automessage_data/
+/justzoom_instance_data/
+/local/
+/xaero/
+
+# Client-specific settings
+/.curseclient
+/minecraftinstance.json
+/realms_persistence.json
+
+# Generated downloads
+/downloads/
+
+# Profile-specific image
+/profileImage/

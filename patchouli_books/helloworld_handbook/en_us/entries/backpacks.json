@@ -1,0 +1,13 @@
+{
+  "name": "Sophisticated Backpacks",
+  "category": "patchouli:equipment",
+  "icon": "minecraft:chest",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Travel light, carry more",
+      "text": "Use upgrades and filters to organize supplies. Keep valuables secure, and check who can access a backpack while it is placed."
+    }
+  ]
+}

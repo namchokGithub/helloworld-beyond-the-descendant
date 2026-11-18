@@ -1,0 +1,17 @@
+dynamic_difficulty:crystal_of_awakening	inventory_particles:crystal_of_awakening/glint/glint0_0	0	0	8	8
+dynamic_difficulty:crystal_of_awakening	inventory_particles:crystal_of_awakening/glint/glint0_1	8	0	8	8
+dynamic_difficulty:crystal_of_awakening	inventory_particles:crystal_of_awakening/glint/glint0_2	16	0	8	8
+dynamic_difficulty:crystal_of_awakening	inventory_particles:crystal_of_awakening/glint/glint0_3	24	0	8	8
+dynamic_difficulty:crystal_of_awakening	inventory_particles:crystal_of_awakening/glint/glint0_4	32	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_0	40	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_1	48	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_2	56	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_3	64	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_4	72	0	8	8
+dynamic_difficulty:draught_of_ascension	inventory_particles:draught_of_ascension/fallback/standard_5	80	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_0	88	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_1	96	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_2	104	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_3	112	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_4	120	0	8	8
+dynamic_difficulty:essence_of_vitality	inventory_particles:essence_of_vitality/fallback/standard_5	128	0	8	8

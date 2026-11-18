@@ -1,0 +1,13 @@
+{
+  "name": "Bases & Storage",
+  "category": "patchouli:multiplayer",
+  "icon": "minecraft:barrel",
+  "sortnum": 16,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Build a home worth returning to",
+      "text": "Mark shared storage and label important containers. Keep public pathways clear and protect valuable equipment."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "item": "minecraft:bread",
+    "weight": 40,
+    "minCount": 6,
+    "maxCount": 12
+  },
+  {
+    "item": "minecraft:apple",
+    "weight": 30,
+    "minCount": 4,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:cookie",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:leather",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:feather",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:egg",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:redstone",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 5
+  },
+  {
+    "item": "minecraft:ink_sac",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 5
+  },
+  {
+    "item": "minecraft:glow_ink_sac",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:iron_ingot",
+    "weight": 10,
+    "minCount": 4,
+    "maxCount": 5
+  },
+  {
+    "item": "minecraft:golden_carrot",
+    "weight": 10,
+    "minCount": 4,
+    "maxCount": 8
+  },
+  {
+    "item": "minecraft:quartz",
+    "weight": 5,
+    "minCount": 4,
+    "maxCount": 8
+  }
+]

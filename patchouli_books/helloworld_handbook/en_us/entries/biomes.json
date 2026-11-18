@@ -1,0 +1,13 @@
+{
+  "name": "Biomes & Dimensions",
+  "category": "patchouli:exploration",
+  "icon": "minecraft:grass_block",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Every land has its secrets",
+      "text": "Different biomes and dimensions may hold unique resources and threats. Pack food and an escape route before long trips."
+    }
+  ]
+}

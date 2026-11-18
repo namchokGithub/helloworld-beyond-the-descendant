@@ -1,0 +1,17 @@
+{
+  "craftingtweaks:compress_all": {
+    "modifiers": []
+  },
+  "craftingtweaks:compress_one": {
+    "modifiers": []
+  },
+  "craftingtweaks:compress_stack": {
+    "modifiers": []
+  },
+  "trashslot:delete_all": {
+    "modifiers": []
+  },
+  "trashslot:delete": {
+    "modifiers": []
+  }
+}

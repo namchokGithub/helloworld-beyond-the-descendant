@@ -1,0 +1,11 @@
+{
+  "name": "HelloWorld - Adventurer's Handbook",
+  "landing_text": "Welcome, adventurer! $(br2)Beyond the Descendant. Explore ancient lands, conquer danger, and remember: Rest the weary heart. Your journey is not over.",
+  "version": "1",
+  "subtitle": "Beyond the Descendant",
+  "book_texture": "patchouli:textures/gui/book_purple.png",
+  "model": "patchouli:book_purple",
+  "show_progress": false,
+  "use_blocky_font": false,
+  "creative_tab": "minecraft:tools_and_utilities"
+}

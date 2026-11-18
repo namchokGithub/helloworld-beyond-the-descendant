@@ -1,0 +1,13 @@
+{
+  "name": "Playing Together",
+  "category": "patchouli:multiplayer",
+  "icon": "minecraft:player_head",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "A shared adventure",
+      "text": "Respect other players, share discoveries and communicate before major boss fights. Multiplayer is better when everyone gets to participate."
+    }
+  ]
+}

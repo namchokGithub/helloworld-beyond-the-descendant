@@ -1,0 +1,13 @@
+{
+  "name": "Repair & Experience",
+  "category": "patchouli:equipment",
+  "icon": "minecraft:experience_bottle",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Keep your tools ready",
+      "text": "Mending converts XP into durability. Plan repairs before a journey, especially when traveling far from home."
+    }
+  ]
+}

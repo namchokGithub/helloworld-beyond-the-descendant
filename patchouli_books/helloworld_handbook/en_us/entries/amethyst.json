@@ -1,0 +1,13 @@
+{
+  "name": "Budding Amethyst",
+  "category": "patchouli:equipment",
+  "icon": "minecraft:amethyst_cluster",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Protect the crystal",
+      "text": "Place Budding Amethyst where clusters have room to grow. Harvest mature clusters rather than breaking the budding block."
+    }
+  ]
+}

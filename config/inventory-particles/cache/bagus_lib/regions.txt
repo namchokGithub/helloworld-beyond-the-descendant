@@ -1,0 +1,12 @@
+bagus_lib:book	inventory_particles:book/fallback/standard_0	0	0	8	8
+bagus_lib:book	inventory_particles:book/fallback/standard_1	8	0	8	8
+bagus_lib:book	inventory_particles:book/fallback/standard_2	16	0	8	8
+bagus_lib:book	inventory_particles:book/fallback/standard_3	24	0	8	8
+bagus_lib:book	inventory_particles:book/fallback/standard_4	32	0	8	8
+bagus_lib:book	inventory_particles:book/fallback/standard_5	40	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_0	48	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_1	56	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_2	64	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_3	72	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_4	80	0	8	8
+bagus_lib:mini_bagu_spawn_egg	inventory_particles:mini_bagu_spawn_egg/fallback/standard_5	88	0	8	8

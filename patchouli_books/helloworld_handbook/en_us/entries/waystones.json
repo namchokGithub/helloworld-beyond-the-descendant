@@ -1,0 +1,13 @@
+{
+  "name": "Waystones",
+  "category": "patchouli:exploration",
+  "icon": "minecraft:lodestone",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Mark your journey",
+      "text": "Use Waystones to establish routes between important places. When you discover a new waypoint, remember where it leads before exploring farther."
+    }
+  ]
+}

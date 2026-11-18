@@ -1,0 +1,13 @@
+{
+  "name": "Dynamic Difficulty",
+  "category": "patchouli:world",
+  "icon": "minecraft:zombie_head",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Dangers beyond the horizon",
+      "text": "Monsters scale with distance from spawn. Exploration brings higher risk; prepare armor, weapons and provisions before heading outward."
+    }
+  ]
+}

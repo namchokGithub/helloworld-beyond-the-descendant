@@ -1,0 +1,6 @@
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_0	0	0	8	8
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_1	8	0	8	8
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_2	16	0	8	8
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_3	24	0	8	8
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_4	32	0	8	8
+explorerscompass:explorerscompass	inventory_particles:explorerscompass/fallback/standard_5	40	0	8	8

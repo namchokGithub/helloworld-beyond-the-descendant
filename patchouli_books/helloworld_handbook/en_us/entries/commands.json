@@ -1,0 +1,13 @@
+{
+  "name": "Useful Commands",
+  "category": "patchouli:reference",
+  "icon": "minecraft:command_block",
+  "sortnum": 19,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Ask an operator when needed",
+      "text": "Operators can use /reload to reload datapacks. Players can use the recipe book and installed item viewers to explore available crafting."
+    }
+  ]
+}

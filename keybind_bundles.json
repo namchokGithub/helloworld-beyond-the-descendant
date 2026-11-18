@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c9341f1c-2ca3-4efd-a435-b556d4a1ddbb",
+    "name": "O",
+    "entries": [
+      {
+        "key": "key.inventoryhud.openconfig",
+        "title": "Open config"
+      },
+      {
+        "key": "key.apotheosis.toggle_radial_mining",
+        "title": "Change Radial Mining Mode"
+      }
+    ]
+  }
+]

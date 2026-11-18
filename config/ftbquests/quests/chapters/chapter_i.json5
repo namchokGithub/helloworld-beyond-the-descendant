@@ -1,0 +1,63 @@
+{
+  id: "3D195D103E4F50DD",
+  group: "283C2CDFC7B62A79",
+  order_index: 0,
+  filename: "chapter_i",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "51281D0F33B4A742",
+  quests: [
+    {
+      x: -6.5,
+      y: -0.5,
+      size: 1.0,
+      id: "51281D0F33B4A742",
+      tasks: [
+        {
+          id: "346096D1080F8F7D",
+          type: "item",
+          item: {
+            id: "starcatcher:mothfish",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "687B04051F1D8697",
+          type: "xp_levels",
+          xp_levels: 5,
+        },
+        {
+          id: "20EC1AED94B507FE",
+          type: "item",
+          item: {
+            id: "minecraft:birch_log",
+            count: 1,
+          },
+          count: 5,
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -0.5,
+      dependencies: [
+        "51281D0F33B4A742",
+      ],
+      size: 1.0,
+      id: "613C2B6CCF9CA213",
+      tasks: [
+        {
+          id: "17228E9D9DF5D1D0",
+          type: "gamestage",
+          stage: "",
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

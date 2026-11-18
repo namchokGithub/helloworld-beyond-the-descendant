@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/User/curseforge/minecraft/Instances/HelloWorld Beyond the Descendant/saves/New World
+}
+

@@ -1,0 +1,4 @@
+#Whether Omni Pots produce seed items when harvesting crops
+dropSeeds = true
+#Whether Omni Pots produce sapling items when harvesting trees
+dropSaplings = true

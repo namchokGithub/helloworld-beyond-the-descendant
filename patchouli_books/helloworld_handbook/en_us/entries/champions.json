@@ -1,0 +1,13 @@
+{
+  "name": "Champion Monsters",
+  "category": "patchouli:combat",
+  "icon": "minecraft:netherite_sword",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Beware the extraordinary",
+      "text": "A small number of enemies are Champions with unusual abilities and extra rewards. Watch their effects and retreat when needed."
+    }
+  ]
+}

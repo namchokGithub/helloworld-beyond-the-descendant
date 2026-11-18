@@ -1,0 +1,4 @@
+#Display order of the attributes screen. Attributes listed earlier are shown first.
+#Attributes not listed here are sorted by their localized name and shown after all listed ones.
+#Each entry is an attribute ID, for example minecraft:attack_damage
+attribute_sort = ["minecraft:attack_damage", "minecraft:attack_speed", "minecraft:max_health", "minecraft:armor", "minecraft:armor_toughness", "minecraft:movement_speed", "apothic_attributes_extension:mob_looting", "apothic_attributes_extension:mining_fortune", "apothic_attributes_extension:fishing_speed", "apothic_attributes_extension:fishing_luck", "irons_spellbooks:max_mana", "irons_spellbooks:spell_power"]

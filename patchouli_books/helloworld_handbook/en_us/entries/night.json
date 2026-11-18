@@ -1,0 +1,13 @@
+{
+  "name": "Nightfall",
+  "category": "patchouli:world",
+  "icon": "minecraft:clock",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "The dark has teeth",
+      "text": "Night can be dangerous. Travel with friends, keep your route lit and retreat when the odds turn against you."
+    }
+  ]
+}

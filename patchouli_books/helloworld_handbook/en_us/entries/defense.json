@@ -1,0 +1,13 @@
+{
+  "name": "Armor & Damage",
+  "category": "patchouli:combat",
+  "icon": "minecraft:shield",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Defense is more than armor",
+      "text": "Armor, toughness, and protection enchantments all matter. Powerful equipment helps, but positioning and timing are just as important."
+    }
+  ]
+}

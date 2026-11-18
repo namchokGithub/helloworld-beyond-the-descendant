@@ -1,0 +1,56 @@
+[
+  {
+    "item": "minecraft:diamond",
+    "weight": 50,
+    "minCount": 5,
+    "maxCount": 30
+  },
+  {
+    "item": "minecraft:golden_apple",
+    "weight": 40,
+    "minCount": 3,
+    "maxCount": 20
+  },
+  {
+    "item": "minecraft:honeycomb",
+    "weight": 55,
+    "minCount": 2,
+    "maxCount": 30
+  },
+  {
+    "item": "minecraft:echo_shard",
+    "weight": 20,
+    "minCount": 5,
+    "maxCount": 15
+  },
+  {
+    "item": "minecraft:nautilus_shell",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 20
+  },
+  {
+    "item": "minecraft:emerald",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 20
+  },
+  {
+    "item": "minecraft:blaze_rod",
+    "weight": 30,
+    "minCount": 3,
+    "maxCount": 40
+  },
+  {
+    "item": "minecraft:chorus_fruit",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 40
+  },
+  {
+    "item": "minecraft:wind_charge",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+]

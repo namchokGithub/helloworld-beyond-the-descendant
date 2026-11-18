@@ -1,0 +1,81 @@
+#好梦包
+["Goodie Bag"]
+	#获得好梦包的概率
+	#Probability of receiving Goodie Bag when boosted
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	goodieBagChance = 0.8
+	#获得好梦包的数量
+	#Amount of Goodie Bag received
+	# Default: 1
+	# Range: > 1
+	goodieBagAmount = 1
+	#品质提升后给予好梦包的概率
+	#Chance to grant a Goodie Bag bundle after quality upgrade
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	boostedGoodieBagChance = 0.5
+	#好梦包开出物品的数量
+	#Number of items obtained from the Goodie Bag bundle
+	# Default: 1
+	# Range: > 1
+	goodieBagLootAmount = 1
+
+	#甜梦包
+	["Goodie Bag"."Sweet Bag"]
+		#获得甜梦包的概率
+		#Probability of receiving Sweet Bag when boosted
+		# Default: 0.25
+		# Range: 0.0 ~ 1.0
+		sweetBagChance = 0.25
+		#获得甜梦包的数量
+		#Amount of Sweet Bag received
+		# Default: 1
+		# Range: > 1
+		sweetBagAmount = 1
+		#品质提升后给予甜梦包的概率
+		#Chance to grant a Sweet Bag bundle after quality upgrade
+		# Default: 0.65
+		# Range: 0.0 ~ 1.0
+		boostedSweetBagChance = 0.65
+		#甜梦包开出物品的数量
+		#Number of items obtained from the Sweet Bag bundle
+		# Default: 1
+		# Range: > 1
+		sweetBagLootAmount = 1
+
+		#美梦包
+		["Goodie Bag"."Sweet Bag"."Dream Bag"]
+			#获得美梦包的概率
+			#Probability of receiving Dream Bag when boosted
+			# Default: 0.05
+			# Range: 0.0 ~ 1.0
+			dreamBagChance = 0.05
+			#获得美梦包的数量
+			#Amount of Dream Bag received
+			# Default: 1
+			# Range: > 1
+			dreamBagAmount = 1
+			#品质提升后给予美梦包的概率
+			#Chance to grant a Dream Bag bundle after quality upgrade
+			# Default: 0.05
+			# Range: 0.0 ~ 1.0
+			boostedDreamBagChance = 0.05
+			#美梦包开出物品的数量
+			#Number of items obtained from the Dream Bag bundle
+			# Default: 1
+			# Range: > 1
+			dreamBagLootAmount = 1
+
+		#连续睡觉配置
+		["Goodie Bag"."Sweet Bag"."Continuous sleeping configuration"]
+			#品质提升的天数阈值
+			#Quality upgrade day threshold
+			# Default: 5
+			# Range: > 1
+			qualityBoostThreshold = 5
+			#必得美梦包的天数阈值
+			#Guaranteed Sweet Dreams bundle day threshold
+			# Default: 15
+			# Range: > 0
+			maxStreakThreshold = 15
